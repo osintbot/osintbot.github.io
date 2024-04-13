@@ -6,16 +6,86 @@ description: >-
 
 # 💸 Платные услуги и сервисы
 
-**Розыск похищенных грузов**
+### **Проверка наемного транспорта, СБ на аутсорсе**
+
+1. [OTK.SU](https://otk.su/)
+2. [SB-365.RU](https://sb-365.ru/) - есть партнерская программа
+3. [Proverk.RU](https://proverk.ru/)
+4. [Agency-CI.RU](https://agency-ci.ru/)
+5. [MonitorSecurity.RU](https://monitorsecurity.ru/)
+6. [VKargo.RU](https://vkargo.ru/)
+7. [RT-Safety.Com](https://rt-safety.com/)
+8. [MyOxrana.RU](https://myoxrana.ru/)
+
+### **Проверка на причастность ФЛ и ЮЛ к инцидентам**
+
+1. [Bit-Tech.IO](https://bit-tech.io/)
+
+### **Проверка физических лиц, кандидатов**
+
+1. [Odyssey-Search.INFO](https://odyssey-search.info/) - есть партнерская программа
+2. [IR-BIS.ORG](https://ir-bis.org/)
+3. [APORT-K.RU](http://aport-k.ru/)
+4. [CROINFORM.RU](http://croinform.ru/)
+5. [Byratino.INFO](https://byratino.info/)
+6. [AVL.TEAM](https://avl.team/#/)
+7. [Инфосфера.РУС](https://xn--80ajiufnfwc.xn--p1acf/)
+8. [IIDX.RU](https://iidx.ru/)
+9. [DATAME.ONLINE](https://datame.online/)
+10. [CRONOS.RU](https://www.cronos.ru/)
+11. [BIAS.RU](https://www.bias.ru/)
+12. [DATADEV.RU](https://datadev.ru/)
+13. [Himera-Search.NET](https://himera-search.net/)
+14. [Интернет-Розыск.РФ](http://xn----itbajbqqblqdoee3l.xn--p1ai/)
+15. [ATI.SU](https://ati.su/verification) - возможность брать разовые платные отчеты по физ. лицам без заключения договоров с IDX, СКБ-Контур
+16. [Femida-Search.RU](https://femida-search.ru/)
+17. [Utechka.COM](https://utechka.com/)
+
+### **Проверка юридических лиц**
+
+1. [Spark-Interfax.RU](https://spark-interfax.ru/)
+2. [FOCUS.Kontur.RU](https://focus.kontur.ru/)
+3. [SBIS.RU](https://sbis.ru/)
+4. [INTEGRUM.RU](https://integrum.ru/)
+5. [Globas.Credinform.RU](https://globas.credinform.ru/ru-RU)
+6. [Reputation.RU](https://reputation.ru/)
+7. [ATI.SU](https://ati.su/verification) - возможность брать разовые платные отчеты по юр. лицам без заключения договоров с Репутацией, Спарк, СКБ-Контур
+8. [DeltaBEZ.RU](https://deltabez.ru/)
+9. [Kartoteka.RU](https://www.kartoteka.ru/)
+10. [SKRIN.RU](https://skrin.ru/)
+11. [Creditnet.RU](https://creditnet.ru/hyper/#!/info)
+12. [IR-BIS.ORG](https://www.ir-bis.org/)
+13. [BASIS.Myseldon.RU](https://basis.myseldon.com/ru/)
+14. [Multistat.RU](http://multistat.ru/index.php?menu\_id=3000)
+15. [Prima-Inform.RU](https://www.prima-inform.ru/)
+16. [Audit-IT.RU](https://www.audit-it.ru/)
+17. [E-Ecolog.RU](https://e-ecolog.ru/)
+18. [Femida-Search.RU](https://femida-search.ru/)
+
+### **Проверка зарубежных юридических лиц**
+
+1. [Kartoteka.BY](https://kartoteka.by/) \[Белоруссия] - есть партнерская программа
+2. [LeonardoAnalytics.RU](https://leonardoanalytics.ru/) \[большинство стран всего мира]
+3. [CSI.Group](https://csi.group/solutions/corporate-intelligence) \[Европа, Азия, США]
+4. [KOMPRA.KZ](https://kompra.kz/) \[Казахстан]
+5. [ADATA.KZ](https://adata.kz/) \[Казахстан]
+6. [CreditRisk.INFO](https://creditrisk.info/ru) \[большинство стран всего мира]
+7. [OpenCorporates.COM](https://opencorporates.com/) \[Европа, США]
+8. [Company.COM](https://www.company.com/) \[Европа, США]
+9. [Legat.BY](https://legat.by/) \[страны СНГ]
+10. [ContraGento.BY](https://contragento.by/) \[Белоруссия]
+11. [Dineka.RU](https://dineka.ru/) \[большинство стран всего мира]
+
+### **Розыск похищенных грузов**
 
 1. [LOSSCARGO.RU](https://losscargo.ru/index.html)
 
-**Мониторинг судебных дел**
+### **Мониторинг судебных дел**
 
 1. [CASEBOOK.RU](https://casebook.ru/)
 2. [XSUDSOFT.RU](https://xsudsoft.ru/)
 
-**Юридические услуги**
+### **Юридические услуги**
 
 1. [BOGATOV-GROUP.RU](https://bogatov-group.ru/)
 2. [LEXPRO.BY](https://lexpro.by/) (по Беларуси) - есть партнерская программа
@@ -24,11 +94,11 @@ description: >-
 5. [TRANSPORTLAW.RU](https://transportlaw.ru/)
 6. [MONOPOLY.ONLINE](https://monopoly.online/law-service)
 
-**Комплаенс**
+### **Комплаенс**
 
 1. [COMPLY.RU](https://comply.ru/)
 
-**Мониторинг СМИ**
+### **Мониторинг СМИ**
 
 1. [AVL.TEAM](https://avl.team/)
 2. [INTEGRUM.RU](https://integrum.ru/monitoring-smi)
@@ -37,7 +107,7 @@ description: >-
 5. [KRIBRUM.RU](https://kribrum.ru/)
 6. [IQBUZZ.PRO](https://iqbuzz.pro/)
 
-**Диспетчеризация, отслеживание ТС, автоматизация логистики**
+### **Диспетчеризация, отслеживание ТС, автоматизация логистики**
 
 1. [MOVIZOR.RU](https://movizor.ru/)
 2. [AXELOT.RU](https://www.axelot.ru/)
@@ -55,7 +125,7 @@ description: >-
 14. [AUTOFON.RU](http://www.autofon.ru/)
 15. [X-KEEPER.NET](https://x-keeper.net/)
 
-**DLP системы**
+### **DLP системы**
 
 1. [IN4SECURITY.COM](https://in4security.com/)
 2. [ZECURION.RU](https://zecurion.ru/)
@@ -64,11 +134,11 @@ description: >-
 5. [SEARCHINFORM.RU](https://searchinform.ru/)
 6. [RT-SOLAR.RU](https://rt-solar.ru/solutions/)
 
-**Цифровые и финансовые сервисы для экспедиторов**
+### **Цифровые и финансовые сервисы для экспедиторов**
 
 1. [B2B.ROCKETWORK.RU](https://b2b.rocketwork.ru/?ysclid=lf198yigwv836015822)
 
-**Частные охранные предприятия, связанные с логистикой и конвой**
+### **Частные охранные предприятия, связанные с логистикой и конвой**
 
 1. [GKB-VITYAZ.RU](http://gkb-vityaz.ru/)
 2. [KRECHET-SPB.RU](https://www.krechet-spb.ru/)
@@ -97,16 +167,16 @@ description: >-
 25. ООО ЧОП "Бастион"
 26. [Реестр ЧОП от Координационного совета Негосударственной сферы безопасности России](https://t.me/reestr\_nsb)
 
-**Сервисы помощи водителям на дорогах**
+### **Сервисы помощи водителям на дорогах**
 
 1. [DOSTAVKA.YANDEX.RU](https://dostavka.yandex.ru/magistral/) - новость о запуске сервиса [тут](https://t.me/logistved/2251)
 2. [E100ONLINE.RU](https://e100online.ru/klub-pomoshi-viktor)
 
-**Пломбировочные устройства**
+### **Пломбировочные устройства**
 
 1. [SILTECH.RU](https://www.siltech.ru/)
 
-**Работа с биометрией**
+### **Работа с биометрией**
 
 1. [BIT-TECH.IO](https://bit-tech.io/)
 2. [OZFORENSICS.COM](https://ozforensics.com/)
@@ -114,7 +184,7 @@ description: >-
 4. [BIO-SMART.RU](https://bio-smart.ru/)
 5. [VISIONLABS.RU](https://www.visionlabs.ru/ru/)
 
-**Автоматизация работы служб безопасности**
+### **Автоматизация работы служб безопасности**
 
 1. [ANBR.RU](https://www.anbr.ru/)
 2. [CRONOS.RU](https://www.cronos.ru/index.html)
@@ -122,21 +192,21 @@ description: >-
 4. [RCO.RU](http://www.rco.ru/)
 5. [DITRIXSOFT.RU](https://ditrixsoft.ru/)
 
-**Стоянки для фур**
+### **Стоянки для фур**
 
 1. [DORNET.RU](https://dornet.ru/content/parking)
 
-**Проверки транспортных средств**
+### **Проверки транспортных средств**
 
 1. [AVTOCOD.RU](https://avtocod.ru/)
 2. [VINFORMER.SU](https://vinformer.su/#/Cheack-Vehicle/)
 
-**Кредитная история**
+### **Кредитная история**
 
 1. [EXBICO.RU](https://exbico.ru/)
 2. [UNIRATE24.RU](https://www.unirate24.ru/)
 
-**Страховые компании**
+### **Страховые компании**
 
 1. [SKPARI.RU](https://www.skpari.ru/)
 2. [CAPITALPOLIS.RU](https://capitalpolis.ru/)
@@ -155,15 +225,15 @@ description: >-
 15. [RESO.RU](https://reso.ru/)
 16. [SOGAZ.RU](https://www.sogaz.ru/)
 
-**Перевозка транспортных средств**
+### **Перевозка транспортных средств**
 
 1. ООО «Автофлот», Контакты: AVTOFLOT2022@gmail.com, Вагапов Марат Камилевич +7 (927) 244-33-99
 
-**Урегулирование убытков**
+### **Урегулирование убытков**
 
 1. [LOSSADJUSTER.RU](https://lossadjuster.ru/)
 
-**Полиграф**
+### **Полиграф**
 
 1. [Реестр полиграфологов](http://npnkp.ru/reestr-poligrafologov)
 2. [Реестр компаний](http://npnkp.ru/reestr-kompanii)
