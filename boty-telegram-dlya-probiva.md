@@ -36,8 +36,8 @@ description: >-
 
 ### :oncoming\_automobile: Транспортные средства
 
-1. [AutoInfo](https://t.me/BotAvinfo\_bot) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.me](https://avinfobot.me/)
-2. [Vehicle ID](https://t.me/clerkinfobot) - находит ФИО, VIN, CNC, марку, ОСАГО
+1. [AutoInfo](https://vk.cc/cwawMS) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.me](https://avinfobot.me/)
+2. [Avtonomerbot ](https://t.me/avtonomerbot)- по номеру найдет фото авто.
 3. [Cargram](https://t.me/avtogramorg\_bot?start=1725071652)
 4. [VIN Detective](https://t.me/vin01bot) - находит имя владельца, характеристики автомобиля, штрафы, ДТП, работу в такси и т.п.
 5. [NoBlack Auto](https://t.me/noblackAuto\_bot) - находит имя владельца, характеристики автомобиля, штрафы, ДТП, работу в такси и т.п.
