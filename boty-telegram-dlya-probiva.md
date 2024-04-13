@@ -52,12 +52,12 @@ description: >-
 5. [IDBot](https://vk.cc/cwavmB) - получает ID пользователя, чата, канала или бота бесплатно.
 6. [Inline Info Username](https://vk.cc/cwavK1) - находит имя и ссылку на аккаунт в Telegram по ID.
 7. [Unamer](https://vk.cc/cwavIH) - сообщает о владельцах никнеймов в Telegram, 2 запроса бесплатно.
-8. TuriBot - узнает имя пользователя по его ID.
-9. RegDateBot - дает примерную дату регистрации аккаунта Telegram по ID.
-10. creationdatebot - определяет дату создания аккаунта по его username.
-11. SangMataInfo\_bot - показывает историю смены никнеймов пользователя.
-12. SangMata (beta) - история изменения имени аккаунта по ID.
-13. TeleBrellaBot - находит группы пользователя в Telegram.
+8. [TuriBot](https://vk.cc/cwavQm) - узнает имя пользователя по его ID.
+9. [RegDateBot](https://vk.cc/cwavRF) - дает примерную дату регистрации аккаунта Telegram по ID.
+10. [Creation Date](https://vk.cc/cwavTl) - определяет дату создания аккаунта по его username.
+11. [SangMata Info Bot](https://vk.cc/cwavW2) - показывает историю смены никнеймов пользователя.
+12. [SangMata (beta)](https://vk.cc/cwavXd) - история изменения имени аккаунта по ID.
+13. &#x20;[User ID Checker](https://t.me/CheckID\_AIDbot) - поиск ID пользователя
 14. buzzim\_alerts\_bot - анализирует семантику открытых сообщений в Telegram.
 15. Insight - определяет интересы пользователей Telegram по их подпискам на группы/каналы.
 16. FindStickerCreator - находит ID создателя стикеров в Telegram.
@@ -65,4 +65,3 @@ description: >-
 18. Surftg\_bot - осуществляет поиск сообщений в Telegram.
 19. [Telegram Analyst](https://t.me/TgAnalyst\_bot) - способен найти по тг айди айпишник и номер телефона
 20. [ID Chat Finder](https://t.me/ibhld\_bot) - позволяет узнать чаты по айди
-21. [User ID Checker](https://t.me/CheckID\_AIDbot) - поиск ID пользователя
