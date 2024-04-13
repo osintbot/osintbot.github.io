@@ -57,11 +57,10 @@ description: >-
 10. [Creation Date](https://vk.cc/cwavTl) - определяет дату создания аккаунта по его username.
 11. [SangMata Info Bot](https://vk.cc/cwavW2) - показывает историю смены никнеймов пользователя.
 12. [SangMata (beta)](https://vk.cc/cwavXd) - история изменения имени аккаунта по ID.
-13. &#x20;[User ID Checker](https://t.me/CheckID\_AIDbot) - поиск ID пользователя
-14. buzzim\_alerts\_bot - анализирует семантику открытых сообщений в Telegram.
-15. Insight - определяет интересы пользователей Telegram по их подпискам на группы/каналы.
-16. FindStickerCreator - находит ID создателя стикеров в Telegram.
-17. ChatSearchRobot - ищет схожие по тематике чаты в Telegram.
-18. Surftg\_bot - осуществляет поиск сообщений в Telegram.
-19. [Telegram Analyst](https://t.me/TgAnalyst\_bot) - способен найти по тг айди айпишник и номер телефона
-20. [ID Chat Finder](https://t.me/ibhld\_bot) - позволяет узнать чаты по айди
+13. [User ID Checker](https://t.me/CheckID\_AIDbot) - поиск ID пользователя
+14. [Insight](https://vk.cc/cwawu7) - определяет интересы пользователей Telegram по их подпискам на группы/каналы.
+15. [StickerPack Owner](https://vk.cc/cwawBq) - находит ID создателя стикеров в Telegram.
+16. [ChatSearchRobot](https://vk.cc/cwawDz) - ищет схожие по тематике чаты в Telegram.
+17. [Surftg](https://vk.cc/cwawF7) - осуществляет поиск сообщений в Telegram.
+18. [Telegram Analyst](https://t.me/TgAnalyst\_bot) - способен найти по тг айди айпишник и номер телефона
+19. [ID Chat Finder](https://t.me/ibhld\_bot) - позволяет узнать чаты по айди
