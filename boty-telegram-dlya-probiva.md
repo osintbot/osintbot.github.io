@@ -43,7 +43,7 @@ description: >-
 3. [EGRUL Check](https://t.me/egrul\_bot) - проверка контрагентов
 4. [OGRN Check](https://t.me/ogrn\_bot) - проверка контрагентов
 
-#### Работа с Telegram
+#### Работа с пользователями Телеграм
 
 1. [Telegram Analyst](https://t.me/TgAnalyst\_bot) - способен найти по тг айди айпишник и номер телефона
 2. [ID Chat Finder](https://t.me/ibhld\_bot) - позволяет узнать чаты по айди
