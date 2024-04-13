@@ -7,7 +7,7 @@ description: >-
 
 # 👁️ Боты телеграм для пробива
 
-### Физические лица, телефоны, почты
+### :man\_office\_worker: Физические лица, телефоны, почты
 
 1. [LeakedInfo](https://vk.cc/cwaoTj) - бот для поиска информации о людях и компаниях. Доступ к государственным и слитым базам, а также к соцсетям и другим источникам. Предлагает поиск в 30+ странах.
 2. [Users Box](https://vk.cc/cwapcp) - ищет данные из утечек. Умеет искать по ФИО, номеру телефона, email. Содержит базы всех известных утечек. Предоставляет 7 бесплатных дней использования.
@@ -27,7 +27,14 @@ description: >-
 16. &#x20;[Email Tracker](https://t.me/holehe\_s\_bot) - инструмент проверяет аккаунты каких сайтов зарегистрированы на искомый email адрес, поиск по 30 источникам.
 17. [SafeSearch](https://t.me/safe\_search\_bot) - бот для поиска по утечкам, ищет комментарии на каналах и т.п
 
-#### Транспортные средства
+### :file\_cabinet: Юридические лица
+
+1. [FNS Agent](https://t.me/AgentFNS\_bot) - проверка контрагентов
+2. [TOT115 Check](https://t.me/tot115fz\_bot) - проверка контрагентов
+3. [EGRUL Check](https://t.me/egrul\_bot) - проверка контрагентов
+4. [OGRN Check](https://t.me/ogrn\_bot) - проверка контрагентов
+
+### :oncoming\_automobile: Транспортные средства
 
 1. [AutoInfo](https://t.me/BotAvinfo\_bot) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.me](https://avinfobot.me/)
 2. [Vehicle ID](https://t.me/clerkinfobot) - находит ФИО, VIN, CNC, марку, ОСАГО
@@ -36,17 +43,28 @@ description: >-
 5. [NoBlack Auto](https://t.me/noblackAuto\_bot) - находит имя владельца, характеристики автомобиля, штрафы, ДТП, работу в такси и т.п.
 6. [Universal Search](https://t.me/UniversalSearchRobot) — по госномеру показывает VIN, СТС, фото авто, часть ФИО владельца и прочее
 
-#### Юридические лица
+### :mobile\_phone: Работа с пользователями Телеграм
 
-1. [FNS Agent](https://t.me/AgentFNS\_bot) - проверка контрагентов
-2. [TOT115 Check](https://t.me/tot115fz\_bot) - проверка контрагентов
-3. [EGRUL Check](https://t.me/egrul\_bot) - проверка контрагентов
-4. [OGRN Check](https://t.me/ogrn\_bot) - проверка контрагентов
-
-#### Работа с пользователями Телеграм
-
-1. [Telegram Analyst](https://t.me/TgAnalyst\_bot) - способен найти по тг айди айпишник и номер телефона
-2. [ID Chat Finder](https://t.me/ibhld\_bot) - позволяет узнать чаты по айди
-3. [Telesint](https://t.me/telesint\_bot) - чаты по айди
-4. [Telescan OSINT](https://t.me/osint\_telescan\_robot) - чаты по айди + shodan
-5. [User ID Checker](https://t.me/CheckID\_AIDbot) - поиск ID пользователя
+1. Funstat Bot - предоставляет историю имен, тегов (ID), сообщения в чатах, телефонные номера. Отслеживает активность, определяет возраст и предпочтения.
+2. TeleSINT - получает данные о публичных и приватных группах, хранит более 2 млн. чатов и 366+ млн. пользователей. Три бесплатных запроса.
+3. Telescan - находит группы, сообщения и историю имен пользователей в Telegram.
+4. TgScanRobot - ищет телеграм-группы, определяет активность пользователей. Платный, но рабочий.
+5. username\_to\_id\_bot - получает ID пользователя, чата, канала или бота бесплатно.
+6. UsInfoBot - находит имя и ссылку на аккаунт в Telegram по ID.
+7. Unamer - сообщает о владельцах никнеймов в Telegram, бесплатно.
+8. TuriBot - узнает имя пользователя по его ID.
+9. RegDateBot - дает примерную дату регистрации аккаунта Telegram по ID.
+10. creationdatebot - определяет дату создания аккаунта по его username.
+11. SangMataInfo\_bot - показывает историю смены никнеймов пользователя.
+12. SangMata (beta) - история изменения имени аккаунта по ID.
+13. TeleBrellaBot - находит группы пользователя в Telegram.
+14. buzzim\_alerts\_bot - анализирует семантику открытых сообщений в Telegram.
+15. Insight - определяет интересы пользователей Telegram по их подпискам на группы/каналы.
+16. FindStickerCreator - находит ID создателя стикеров в Telegram.
+17. ChatSearchRobot - ищет схожие по тематике чаты в Telegram.
+18. Surftg\_bot - осуществляет поиск сообщений в Telegram.
+19. [Telegram Analyst](https://t.me/TgAnalyst\_bot) - способен найти по тг айди айпишник и номер телефона
+20. [ID Chat Finder](https://t.me/ibhld\_bot) - позволяет узнать чаты по айди
+21. [Telesint](https://t.me/telesint\_bot) - чаты по айди
+22. [Telescan OSINT](https://t.me/osint\_telescan\_robot) - чаты по айди + shodan
+23. [User ID Checker](https://t.me/CheckID\_AIDbot) - поиск ID пользователя
