@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌍 Подборка ссылок для пробива](README.md)
+* [🌍 Подборка сайтов для пробива](README.md)
 * [👁️ Боты Телеграм](boty-telegram.md)
 * [💸 Платные услуги и сервисы](platnye-uslugi-i-servisy.md)
 * [🕵️‍♀️ Проверка компании в санкционных списках](proverka-kompanii-v-sankcionnykh-spiskakh.md)
