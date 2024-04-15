@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
+
+    <url>
+        <loc>https://osintbot.github.io</loc>
+        <lastmod>2024-04-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://osintbot.github.io/boty-telegram-dlya-probiva.html</loc>
+        <lastmod>2024-04-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://osintbot.github.io/podborka-saitov-dlya-probiva.html</loc>
+        <lastmod>2024-04-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://osintbot.github.io/platnye-uslugi-i-servisy.html</loc>
+        <lastmod>2024-04-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://osintbot.github.io/proverka-kompanii-v-sankcionnykh-spiskakh.html</loc>
+        <lastmod>2024-04-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://osintbot.github.io/poiskovye-operatory-google-yandex.html</loc>
+        <lastmod>2024-04-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://osintbot.github.io/probiv-inostrannoi-kompanii.html</loc>
+        <lastmod>2024-04-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
