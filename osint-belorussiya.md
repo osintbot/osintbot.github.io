@@ -1,10 +1,13 @@
 ---
 description: Сервисы для разведки и поиска информации Белоруссии
+cover: .gitbook/assets/b511c87e-8c47-4125-8b04-1f3d6bf09c21.jpeg
+coverY: 0
 ---
 
 # 🇧🇾 OSINT - Белоруссия
 
-* [Телефонный справочник](https://spravnik.com/byelarus)&#x20;
+* [Реестр свидетельств о государственной регистрации](http://gr.rcheph.by/)
+* [Телефонный справочник](https://spravnik.com/byelarus)
 * [БЕЛАРУСЬ | Contragent](https://contragento.by/)
 * [БЕЛАРУСЬ | Legat](https://legat.by/)
 * [БЕЛАРУСЬ | Kartoteka](https://kartoteka.by/)
@@ -15,7 +18,7 @@ description: Сервисы для разведки и поиска информ
 * [Участие в бизнесе](http://egr.gov.by/egrn/)
 * [Налоговые задолженности](http://www.portal.nalog.gov.by/grp/#!fl)
 * [Исполнительные производства](https://minjust.gov.by/directions/enforcement/debtors/)
-* [Банкротство](ttps://bankrot.gov.by/Debtors/DebtorsList)
+* [Банкротство](https://bankrot.gov.by/)
 * [Национальный розыск](https://mvd.gov.by/ru/wanted)
 * [Международный розыск](https://www.interpol.int/How-we-work/Notices/View-Red-Notices)
 
