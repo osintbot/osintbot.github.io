@@ -1,8 +1,5 @@
 ---
 description: Сервисы для разведки и поиска информации в Белоруссии
-cover: >-
-  .gitbook/assets/1675150403_top-fon-com-p-fon-dlya-prezentatsii-po-istorii-belarusi-94.jpg
-coverY: 0
 ---
 
 # 🇧🇾 OSINT - Белоруссия
@@ -20,8 +17,3 @@ coverY: 0
 * [bankrot.gov.by](https://bankrot.gov.by/) - Банкротство
 * [mvd.gov.by](https://mvd.gov.by/ru/wanted) - Национальный розыск
 * [interpol.int](https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices) - Международный розыск
-
-\
-
-
-\
