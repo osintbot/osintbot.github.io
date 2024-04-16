@@ -21,22 +21,15 @@ description: Поиск информации о гражданах и компа
 
 ### **Федеральная служба судебных приставов:**
 
-* [Сервисы ФССП России на портале Госуслуг](https://fssp.gov.ru/iss/2704234)
 * [Банк данных исполнительных производств](https://fssp.gov.ru/iss/ip)
 * [Реестр розыска по исполнительным производствам](https://fssp.gov.ru/iss/ip\_search)
-* [Телефонный справочник работников ФССП России](https://fssp.gov.ru/iss/phonebook)
 * [Реестр отделов судебных приставов](https://fssp.gov.ru/iss/agency\_reestr)
 * [Лица, находящиеся в розыске по подозрению в совершении преступлений](https://fssp.gov.ru/iss/suspect\_info)
-* [Извещения о проведении публичных торгов](https://fssp.gov.ru/iss/torgi)
-* [Определение отдела судебных приставов по адресу](https://fssp.gov.ru/iss/osp)
-* [Запись на личный приём к должностным лицам ФССП России](https://fssp.gov.ru/welcome/organizacija\_lichnogo\_priema\_grazhdan/fssponline)
-* [Сведения, содержащиеся в государственном реестре профессиональных коллекторских организаций](https://fssp.gov.ru/iss/svedeniya-reestr-collect)
-* [Сведения, содержащиеся в перечне кредитных и микрофинансовых организаций, осуществляющих деятельность по возврату просроченной задолженности физических лиц](https://fssp.gov.ru/iss/perechen\_komko)
 * [Электронный инспектор](https://fssp.gov.ru/iss/inspector)
 
 ***
 
-**Нахождение в розыске:**
+### **Нахождение в розыске:**
 
 * [Интерпол](https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices)
 * [Поиск лица в базе данных мвд.рф](https://xn--b1aew.xn--p1ai/wanted)
