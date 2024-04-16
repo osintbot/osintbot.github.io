@@ -39,19 +39,19 @@ description: Поиск информации о гражданах и компа
 
 ### **Нахождение в розыске:**
 
-* [Интерпол](https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices)
+* [Международный розыск (Интерпол)](https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices)
 * [Поиск лица в базе данных мвд.рф](https://xn--b1aew.xn--p1ai/wanted)
-* [Феделадьная служба исполнения наказаний](https://fsin.gov.ru/criminal/)
+* [Федеральная служба исполнения наказаний](https://fsin.gov.ru/criminal/)
 * [Перечень террористов и экстремистов (весь список)](https://fedsfm.ru/documents/terrorists-catalog-portal-act)
 
 ***
 
 ### **Участие в судопроизводстве:**
 
-* [Поиск по судебным делам](https://mos-sud.ru/search)
-* [Вы можете получать информацию о результатах слушаний и следить за рассмотрением дела на сайте](https://mirsud.spb.ru/)
-* Поиск по судебным делам
+* [Решения мировых судей Москвы](https://mos-sud.ru/search)
+* [Решения мировых судей Санкт-Петербурга](https://mirsud.spb.ru/)
 * [Судебные и нормативные акты РФ](https://sudact.ru/law/?law-txt=\&law-date\_from=\&law-date\_to=)
+* Поиск по судебным делам
 
 ###
 
