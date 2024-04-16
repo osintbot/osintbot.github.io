@@ -51,10 +51,6 @@ description: Поиск информации о гражданах и компа
 * [Решения мировых судей Москвы](https://mos-sud.ru/search)
 * [Решения мировых судей Санкт-Петербурга](https://mirsud.spb.ru/)
 * [Судебные и нормативные акты РФ](https://sudact.ru/law/?law-txt=\&law-date\_from=\&law-date\_to=)
-* Поиск по судебным делам
-
-###
-
-
+* [Поиск по судебным делам](https://bsr.sudrf.ru/bigs/portal.html)
 
 ***
