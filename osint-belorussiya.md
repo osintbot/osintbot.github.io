@@ -1,6 +1,6 @@
 ---
 description: Сервисы для разведки и поиска информации Белоруссии
-cover: .gitbook/assets/b511c87e-8c47-4125-8b04-1f3d6bf09c21.jpeg
+cover: .gitbook/assets/photo_2022-11-26_15-46-55.jpg
 coverY: 0
 ---
 
