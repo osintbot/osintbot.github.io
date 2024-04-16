@@ -9,4 +9,5 @@
 * [Пробив иностранной компании](probiv-inostrannoi-kompanii.md)
 * [OSINT - Россия](osint-rossiya.md)
 * [OSINT - Белоруссия](osint-belorussiya.md)
+* [OSINT - Поиск самолета](osint-poisk-samoleta.md)
 
