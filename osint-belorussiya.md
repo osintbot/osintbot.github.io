@@ -1,17 +1,17 @@
 ---
-description: Сервисы для разведки и поиска информации Белоруссии
-cover: .gitbook/assets/photo_2022-11-26_15-46-55.jpg
+description: Сервисы для разведки и поиска информации в Белоруссии
+cover: >-
+  .gitbook/assets/1675150403_top-fon-com-p-fon-dlya-prezentatsii-po-istorii-belarusi-94.jpg
 coverY: 0
 ---
 
 # 🇧🇾 OSINT - Белоруссия
 
-* [Реестр свидетельств о государственной регистрации](http://gr.rcheph.by/)
-* [Телефонный справочник](https://spravnik.com/byelarus)
 * [БЕЛАРУСЬ | Contragent](https://contragento.by/)
 * [БЕЛАРУСЬ | Legat](https://legat.by/)
 * [БЕЛАРУСЬ | Kartoteka](https://kartoteka.by/)
 * [Информация о регистрации или ликвидации](https://justbel.info/)
+* [Реестр свидетельств о государственной регистрации](http://gr.rcheph.by/)
 * [Единый регистр ЮЛ и ИП](https://egr.gov.by/egrn/index.jsp?content=Find)
 * [Поиск в базе готовых лицензий | Министерство транспорта и коммуникаций](http://minsk.mtkrbti.by/local/TL/Licence.nsf/\$$SearchTemplate%20for%20WEBSearchView?OpenForm)
 * [Участие в судопроизводстве](http://service.court.by/ru/public/schedule)
