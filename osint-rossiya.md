@@ -4,8 +4,13 @@ description: Поиск информации о гражданах и компа
 
 # 🇷🇺 OSINT — Россия
 
+* [Всероссийская система проверки контрагентов](https://zachestnyibiznes.ru/)
 * [Узнать ИНН физического лица](https://service.nalog.ru/inn.do)
+* [Узнать задолженность по налогам по ИНН или УИН](https://peney.net/)
 * [Картотека арбитражных дел](https://kad.arbitr.ru/#close)
+* [Реестр уведомлений о залоге движимого имущества](https://www.reestr-zalogov.ru/state/index)
+* [Единый федеральный реестр сведений о банкротстве](https://bankrot.fedresurs.ru/)
+* [Проверка их кредитных обязательств](https://app.exbico.ru/account/login)
 
 ### **Главное управление по вопросам миграции МВД Росси**
 
@@ -41,46 +46,15 @@ description: Поиск информации о гражданах и компа
 
 ***
 
-\
+### **Участие в судопроизводстве:**
+
+* [Поиск по судебным делам](https://mos-sud.ru/search)
+* [Вы можете получать информацию о результатах слушаний и следить за рассмотрением дела на сайте](https://mirsud.spb.ru/)
+* Поиск по судебным делам
+* [Судебные и нормативные акты РФ](https://sudact.ru/law/?law-txt=\&law-date\_from=\&law-date\_to=)
+
+###
 
 
-**Кредиты**\
-[https://app.exbico.ru](https://app.exbico.ru)
-
-**Исполнительные производства**\
-[fssprus.ru/iss/ip](http://fssprus.ru/iss/ip)
-
-**Налоговые задолженности**\
-[peney.net](https://peney.net/)
-
-**Залоги имущества**\
-[www.reestr-zalogov.ru/state/index#](https://www.reestr-zalogov.ru/state/index)
-
-**Банкротство**\
-[bankrot.fedresurs.ru](https://bankrot.fedresurs.ru/)
-
-**Участие в судопроизводстве**\
-[bsr.sudrf.ru/bigs/portal.html](https://bsr.sudrf.ru/bigs/portal.html)\
-[sudact.ru](https://sudact.ru/)\
-[mos-sud.ru/search](https://mos-sud.ru/search)\
-[mirsud.spb.ru](https://mirsud.spb.ru)
-
-**Участие в бизнесе**\
-[zachestnyibiznes.ru](https://zachestnyibiznes.ru/)
-
-**Поиск в соцсетях**\
-[go.mail.ru/search\_social](https://go.mail.ru/search\_social)
-
-**Проверка** **диплома**\
-[obrnadzor.gov.ru/ru/activity/main\_directions/reestr\_of\_education/](http://obrnadzor.gov.ru/ru/activity/main\_directions/reestr\_of\_education/)
-
-**Всероссийская система данных о компаниях**\
-[zachestnyibiznes.ru](https://zachestnyibiznes.ru/)
-
-**Каталог компаний России**\
-[ogrn.site](https://ogrn.site/)
-
-**Налоговые задолженности**\
-[peney.net](https://peney.net/)
 
 ***
