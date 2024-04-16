@@ -48,12 +48,7 @@ description: Поиск информации о гражданах и компа
 **Список террористов**\
 [fedsfm.ru/documents/terrorists-catalog-portal-act](http://fedsfm.ru/documents/terrorists-catalog-portal-act)
 
-[сервисы.гувм.мвд.рф](http://xn--b1afk4ade4e.xn--b1ab2a0a.xn--b1aew.xn--p1ai/info-service.htm?sid=2000) - Действительность паспорта\
-[сервисы.гувм.мвд.рф/info-service.htm?sid=2000](http://xn--b1afk4ade4e.xn--b1ab2a0a.xn--b1aew.xn--p1ai/info-service.htm?sid=2000)
-
-[service.nalog.ru](https://service.nalog.ru/inn.do) - Проверка ИНН
-
-[сервисы.гувм.мвд.рф](http://xn--b1afk4ade4e.xn--b1ab2a0a.xn--b1aew.xn--p1ai/) - Главное управление по вопросам миграции МВД России\
+[service.nalog.ru](https://service.nalog.ru/inn.do) - Проверка ИНН\
 
 
 **Кредиты**\
