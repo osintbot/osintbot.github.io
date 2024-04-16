@@ -4,6 +4,9 @@ description: Поиск информации о гражданах и компа
 
 # 🇷🇺 OSINT — Россия
 
+* [Узнать ИНН физического лица](https://service.nalog.ru/inn.do)
+* [Картотека арбитражных дел](https://kad.arbitr.ru/#close)
+
 ### **Главное управление по вопросам миграции МВД Росси**
 
 * [Проверка действительности лицензий на трудоустройство граждан Российской Федерации за пределами территории Российской Федерации](https://xn--b1afk4ade4e.xn--b1ab2a0a.xn--b1aew.xn--p1ai/licenses)
@@ -38,12 +41,8 @@ description: Поиск информации о гражданах и компа
 
 ***
 
-[service.nalog.ru](https://service.nalog.ru/inn.do) - Проверка ИНН
+\
 
-[kad.arbitr.ru](http://kad.arbitr.ru/) - Картотека арбитражных дел\
-
-
-***
 
 **Кредиты**\
 [https://app.exbico.ru](https://app.exbico.ru)
@@ -83,3 +82,5 @@ description: Поиск информации о гражданах и компа
 
 **Налоговые задолженности**\
 [peney.net](https://peney.net/)
+
+***
