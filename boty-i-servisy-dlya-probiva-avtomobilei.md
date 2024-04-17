@@ -20,6 +20,7 @@ description: >-
 ### **Бесплатные:**
 
 * [**Vehicle History:**](https://www.vehiclehistory.com/) предоставляет информацию по VIN о подержанных автомобилях.
+* [**AutoCheck**](https://www.autocheck.com/vehiclehistory/?siteID=0)**:** расшифровка VIN-кода
 * [**ГИБДД.РФ**](https://xn--90adear.xn--p1ai/check/auto/)**:** информация о владельцах, годах оформления.
 * [**VIN01**](https://vin01.ru/)**:** расширенная информация об авто.
 * [**Сайт ФНП**](https://www.reestr-zalogov.ru/search)**:** проверка залога по VIN-коду.
