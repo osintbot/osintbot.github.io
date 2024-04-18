@@ -10,5 +10,5 @@
 * [🇧🇾 OSINT - Белоруссия](osint-belorussiya.md)
 * [🇷🇺 OSINT - Россия](osint-rossiya.md)
 * [✈️ OSINT - Поиск самолета](osint-poisk-samoleta.md)
-* [🛳 OSINT — Поиск корабля](osint-poisk-korablya.md)
-* [⚓ 🚅 OSINT — Поиск поезда](osint-poisk-poezda.md)
+* [⚓ OSINT — Поиск корабля](osint-poisk-korablya.md)
+* [🚅 OSINT — Поиск поезда](osint-poisk-poezda.md)
