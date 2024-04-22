@@ -9,7 +9,7 @@
 * [🚗 Боты и сервисы для пробива автомобилей](boty-i-servisy-dlya-probiva-avtomobilei.md)
 * [🇧🇾 OSINT — Белоруссия](osint-belorussiya.md)
 * [🇷🇺 OSINT — Россия](osint-rossiya.md)
-* [🇺🇦 OSINT — Украины](osint-ukrainy.md)
+* [🇺🇦 OSINT — Украина](osint-ukraina.md)
 * [✈️ OSINT — Поиск самолета](osint-poisk-samoleta.md)
 * [⚓ OSINT — Поиск корабля](osint-poisk-korablya.md)
 * [🚅 OSINT — Поиск поезда](osint-poisk-poezda.md)
