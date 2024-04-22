@@ -10,7 +10,7 @@
 * [Боты и сервисы для пробива автомобилей](boty-i-servisy-dlya-probiva-avtomobilei.md)
 * [OSINT - Россия](osint-rossiya.md)
 * [OSINT - Белоруссия](osint-belorussiya.md)
-* [OSINT — Украина](osint-ukrainy.md)
+* [OSINT - Украина](osint-ukrainy.md)
 * [OSINT - Поиск самолета](osint-poisk-samoleta.md)
 * [OSINT - Поиск корабля](osint-poisk-korablya.md)
 * [OSINT - Поиск поезда](osint-poisk-poezda.md)
