@@ -39,7 +39,7 @@ description: >-
 * [**Nomerogrambot**](https://t.me/nomerogrambot): по гос.номеру можно найти фотографии автомобилей.
 * [**Avtonomerbot**](https://t.me/avtonomerbot)**:** по номеру найдет фото автомобиля.
 * [**AVinfoBot**](https://vk.cc/cwawMS)**:** проверка истории подержанных авто.
-* [**АвтоНомери**](https://t.me/CarPlatesUkraineBot):  отчет по авто: информация, история, розыск, фото, пробег. Украинский бот.
+* [**АвтоНомери**](https://t.me/CarPlatesUkraineBot): отчет о авто по Украине: информация, история, розыск, фото, пробег.
 * [**LeakedInfoBot**](https://vk.cc/cwaoTj)**:** персональные данные владельцев авто.
 * [**Quick OSINT**](https://vk.cc/cwapez)**:** по номеру найдет владельца вплоть до адреса проживания.
 * [**NoBlack Auto**](https://t.me/noblackAuto\_bot)**:** проверит характеристики автомобиля, штрафы, ДТП, работу в такси.
