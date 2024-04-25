@@ -48,11 +48,10 @@ description: >-
 * [Сhainabuse](https://www.chainabuse.com/): на сайте можно найти информацию о BTC-адресах, связанных со скамом, вирусами шифровальщиками и другими негативными действиями.
 * [Bitcoinwhoswho](https://www.bitcoinwhoswho.com/): просматривайте и изучайте информацию о владении биткоинами, транзакциях и проверке баланса по имени, биткоин-адресу, url или ключевому слову.
 * [Checkbitcoinaddress](https://checkbitcoinaddress.com/): сервис для проверки биткоин-адресов: баланс, владелец, упоминания, жалобы и метки.
-* Scam-alert
-* Badbitcoin
-* Bitcoinais
-* Cryptscam
-* Ransomwhe
+* [Scam-alert](https://scam-alert.io/): бесплатная проверка на скам.
+* [Bitcoinais](https://bitcoinais.com/): отслеживает биткоин-адреса, используемые спамерами, шантажистами, случайными программами, вредоносным ПО и мошенниками.
+* [Cryptscam](https://cryptscam.com/ru): база данных со скам адресами крипты.
+* [Ransomwhe](https://ransomwhe.re/): открытый краудсорсинговый трекер платежей за вымогательство.
 
 ### **Поиск по доркам:**
 
