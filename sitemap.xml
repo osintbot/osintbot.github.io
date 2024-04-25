@@ -79,4 +79,10 @@
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
+    <url>
+        <loc>https://osintbot.github.io/osint-probiv-kriptovalyuty.html</loc>
+        <lastmod>2024-04-25</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
