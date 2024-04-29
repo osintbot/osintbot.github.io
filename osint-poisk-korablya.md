@@ -9,6 +9,7 @@ description: >-
 * [MarineTraffic](https://www.marinetraffic.com/): Проект сообщества, предоставляющий данные о передвижении судов в реальном времени.
 * [Marine Vessel Traffic](https://www.marinevesseltraffic.com/): мониторинга морских судов, который использует картографические данные и обогащает их полезными фильтрами для удобного отслеживания различных типов судов.
 * [Global Fishing Watch](http://globalfishingwatch.org/map): дашборд для мониторинга человеческой деятельности в мировом океане: коммерческого рыболовства, перевалки грузов, случаев использования принудительного труда в море.
+* [CruiseMapper](https://www.cruisemapper.com/): сведения о круизных лайнерах и маршрутах их перемещений.
 * [VesselFinder](https://www.vesselfinder.com/): Сервис для отслеживания и поиска судов с актуальными данными.
 * [Shipping Explorer](https://www.shippingexplorer.net/ru): Сервис для отслеживания судов по всему миру, с приложением для Android.
 * [Ship Finder](https://shipfinder.co/): Сервис от Pinkfroot для отслеживания судов по всему миру.
