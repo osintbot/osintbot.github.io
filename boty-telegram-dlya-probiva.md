@@ -29,7 +29,7 @@ description: >-
 * [FNS Agent](https://t.me/AgentFNS\_bot) - проверка контрагентов
 * [TOT115 Check](https://t.me/tot115fz\_bot) - проверка контрагентов
 * [EGRUL Check](https://t.me/egrul\_bot) - проверка контрагентов
-* [OGRN Check](https://t.me/ogrn\_bot) - проверка контрагентов
+* [OGRN Check](https://vk.cc/cwuGcx) - проверка контрагентов
 
 ### 📱 Работа с пользователями Телеграм
 
@@ -45,13 +45,13 @@ description: >-
 * [Creation Date](https://vk.cc/cwavTl) - определяет дату создания аккаунта по его username.
 * [SangMata Info Bot](https://vk.cc/cwavW2) - показывает историю смены никнеймов пользователя.
 * [SangMata (beta)](https://vk.cc/cwavXd) - история изменения имени аккаунта по ID.
-* [User ID Checker](https://t.me/CheckID\_AIDbot) - поиск ID пользователя
+* [User ID Checker](https://vk.cc/cwuGBH) - поиск ID пользователя
 * [Insight](https://vk.cc/cwawu7) - определяет интересы пользователей Telegram по их подпискам на группы/каналы.
 * [StickerPack Owner](https://vk.cc/cwawBq) - находит ID создателя стикеров в Telegram.
 * [ChatSearchRobot](https://vk.cc/cwawDz) - ищет схожие по тематике чаты в Telegram.
 * [Surftg](https://vk.cc/cwawF7) - осуществляет поиск сообщений в Telegram.
-* [Telegram Analyst](https://t.me/TgAnalyst\_bot) - способен найти по тг айди айпишник и номер телефона
-* [ID Chat Finder](https://t.me/ibhld\_bot) - позволяет узнать чаты по айди
+* [Telegram Analyst](https://vk.cc/cwuGHL) - способен найти по тг айди айпишник и номер телефона
+* [ID Chat Finder](https://vk.cc/cwuGJH) - позволяет узнать чаты по айди
 
 ### 🚗 Транспортные средства
 
