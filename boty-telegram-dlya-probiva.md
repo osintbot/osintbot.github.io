@@ -39,7 +39,7 @@ description: >-
 * [TlgGeoEarth](https://vk.cc/cwyzxH) - предлагает возможность поиска аккаунтов Телеграм на основе геолокационных данных. Отобразит номера тел юзеров, чьи настройки приватности не ограничивают доступ к ним.
 * [TgScan Robot](https://vk.cc/cwavgl) - ищет телеграм-группы, определяет активность пользователей. Платный, но рабочий.
 * [IDBot](https://vk.cc/cwavmB) - получает ID пользователя, чата, канала или бота бесплатно.
-* [Inline Info Username](https://vk.cc/cwavK1) - находит имя и ссылку на аккаунт в Telegram по ID.
+* [Inline Info Username](https://vk.cc/cxqrXz) - находит имя и ссылку на аккаунт в Telegram по ID.
 * [Unamer](https://vk.cc/cwavIH) - сообщает о владельцах никнеймов в Telegram, 2 запроса бесплатно.
 * [TuriBot](https://vk.cc/cwavQm) - узнает имя пользователя по его ID.
 * [RegDateBot](https://vk.cc/cwavRF) - дает примерную дату регистрации аккаунта Telegram по ID.
