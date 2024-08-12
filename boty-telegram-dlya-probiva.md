@@ -58,7 +58,7 @@ description: >-
 ### 🚗 Транспортные средства
 
 * [Nomerogram](https://vk.cc/cxqdio) - найдет фотографии автомобилей по гос.номеру.
-* [AutoInfo](https://vk.cc/cwawMS) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.me](https://avinfobot.me/)
+* [AutoInfo](https://vk.cc/cwawMS) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.online](https://avinfobot.online/)
 * [VIN01](https://vk.cc/cwayHr) - поиск данных по VIN и госномеру, ОСАГО, такси, ГИБДД, техосмотрам, реестру залогов.
 * [Avtonomerbot ](https://t.me/avtonomerbot)- по номеру найдет фото авто.
 * [Автограм](https://vk.cc/cwaypI) - информация о ДТП, наложенных штрафах и залоге по VIN или госномеру.
