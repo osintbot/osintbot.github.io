@@ -5,7 +5,7 @@
 * [🌐 Подборка сайтов для пробива](podborka-saitov-dlya-probiva.md)
 * [💸 Платные услуги и сервисы](platnye-uslugi-i-servisy.md)
 * [🕵️‍♀️ Проверка компании в санкционных списках](proverka-kompanii-v-sankcionnykh-spiskakh.md)
-* [🗺️ Пробив иностранной компании](probiv-inostrannoi-kompanii.md)
+* [👥 Пробив иностранной компании](probiv-inostrannoi-kompanii.md)
 * [🚗 Боты и сервисы для пробива автомобилей](boty-i-servisy-dlya-probiva-avtomobilei.md)
 * [🇷🇺 OSINT — Россия](osint-rossiya.md)
 * [🇺🇦 OSINT — Украина](osint-ukrainy.md)
