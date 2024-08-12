@@ -334,3 +334,72 @@ description: >-
 * [ExportData](https://www.exportdata.io/) — Экспорт исторических твитов, загрузка списков подписчиков и подписок из любого публичного аккаунта.
 * [TrueTN](https://truetn.com/INSERTTWITTERHANDLEHERE) — Позволяет просматривать аккаунты, кэшированные/архивированные твиты, метрики и легко загружать изображения и видео посты. Кажется, что он работает корректно только если целевой аккаунт был архивирован в Wayback Machine. Пример: `https://truetn.com/ENTER-USERNAME-HERE`.
 * [PerplexitySQL](https://www.perplexity.ai/sql) — Perplexity SQL отвечает на запросы по графам Twitter, переводя естественный язык в SQL-код. Обратите внимание, что не все пользователи Twitter доступны, так как их база данных в настоящее время неполная.
+
+## **Untappd**
+
+* [UntappdScraper](https://brandone.github.io/untappd-scraper-web/) Инструмент OSINT для сбора данных с соцсети untappd.com.
+
+## **VKontakte**
+
+* [Photo-Map](http://photo-map.ru/) — Поиск постов с гео-метками на vk.com.
+* [VK City4Me](http://vk.city4me.com/) — Отличный инструмент для отслеживания времени, проведённого пользователями VK в сети.
+* [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec) — Поисковая система Google для поиска профилей VK.
+* [Spevktator](https://spevktator.io/) — Поисковая база данных с более чем 67 000 постов. Также доступен инструмент командной строки.
+
+## **VSCO**
+
+* [VSCO Search](https://vsco.co/search/images/) — Поиск пользователей и изображений на официальной платформе VSCO. Поскольку пользователи не могут делать контент приватным, вся информация доступна для общего просмотра, включая метаданные изображений, когда они есть.
+* [VSCO Page](https://vsco.page/) — Позволяет просматривать полные профили VSCO, посты и метаданные изображений. Также можно скачивать изображения и видео. Внимание, сайт содержит много всплывающих окон и рекламы.
+
+## **WhatsApp**
+
+* [WACheck](https://wacheck.online/) — Введите номер WhatsApp и проверьте, находится ли пользователь в сети.
+* [WATools](https://watools.io/) — Легко скачивайте фотографии профилей WhatsApp, проверяйте существование номера на WhatsApp и смотрите, активен ли пользователь.
+* [WhatsApp Reverse Phone Lookup](https://www.celltrack.eu/whatsapp) — Инструмент для ввода номера телефона и просмотра связанного с ним аккаунта WhatsApp, включая имя пользователя и фотографию профиля. Требуется платная подписка.
+* [WhatsApp Law Enforcement Guide](https://faq.whatsapp.com/general/security-and-privacy/information-for-law-enforcement-authorities) — Руководство для правоохранительных органов по работе с данными WhatsApp.
+* [WhatsAnalyze](https://whatsanalyze.com/) — Открытый инструмент для анализа сообщений групп WhatsApp и предоставления статистики, такой как облака слов, временные линии, частота сообщений и многое другое.
+* [ChatVisualizer](https://chatvisualizer.com/) — Простой инструмент для визуализации чатов WhatsApp.
+
+## **Wikipedia**
+
+* [xTools](https://xtools.wmflabs.org/) — Инструменты для анализа пользователей и изменений страниц Wikipedia.
+* [WikiWho](http://wikiwho.ailef.tech/) — База данных правок в Wikipedia, сделанных с использованием IP-диапазонов организаций, государственных учреждений и компаний.
+* [WikiPageViews](https://pageviews.wmcloud.org/) — Показывает, сколько раз конкретная страница Wikipedia была просмотрена за определённое время.
+
+## **YouTube**
+
+* [YouTube GeoFind](https://mattw.io/youtube-geofind/) — Поиск гео-меток видео и их просмотр на карте. Сортировка по имени пользователя, каналу или местоположению.
+* [YouTube Comment Finder](https://ytcomment.kmcat.uk/) — Поиск комментариев к видео. Поиск по видео, ID видео или каналу.
+* [Hadzy](https://hadzy.com/) — Поиск, сортировка и анализ комментариев на YouTube.
+* [Unlisted Video Search](https://unlistedvideos.com/) — Сайт для подачи, поиска и просмотра неразмещённых видео на YouTube.
+* [Amnesty International Youtube DataViewer](https://citizenevidence.amnestyusa.org/) — Введите URL видео и просмотрите его метаданные.
+* [Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod\_channels\_search.php) — Инструмент для поиска каналов YouTube по ключевым словам и дате создания. Результат представлен в виде таблицы с ID канала, названием, описанием, датой создания, а также числом подписчиков, просмотров и загруженных видео.
+* [Montage](https://montage.meedan.com/welcome) — Поиск видео YouTube по дате или гео-локации. Требуется регистрация.
+* [WatchFrameByFrame](http://www.watchframebyframe.com/) — Позволяет просматривать видео на YouTube покадрово. Также работает с Vimeo.
+* [Anilyzer](https://anilyzer.com/) — Ещё один онлайн инструмент для покадрового просмотра видео на YouTube и Vimeo.
+* [PwnYouTube](https://deturl.com/) — Скачивайте видео с YouTube с любой веб-страницы, добавив `pwn` в начало URL.
+* [NSFW YouTube](https://nsfwyoutube.com/) — Закладка, которая обходит любые ограничения, установленные YouTube.
+* [AltCensored](https://www.altcensored.com/) — Просмотр более 177 000 заблокированных видео с YouTube из более чем 2 000 удалённых каналов.
+* [You-TLDR](https://you-tldr.com/) — Бесплатный инструмент и закладка, которая создаёт легко читаемую расшифровку "слишком длинно, не читал" (TLDR) для любого видео на YouTube.
+* [SaveSubs](https://savesubs.com/) — Позволяет конвертировать, редактировать и скачивать субтитры с YouTube, Facebook, DailyMotion и других платформ бесплатно.
+* [IntelX YouTube Search](https://intelx.io/tools?tab=youtube) — Отличная поисковая система для YouTube от IntelX.
+* [YouTube Annotations Archive](https://archive.org/details/youtubeannotations) — Архив аннотаций YouTube. Более 1.4 миллиарда аннотаций и 2.4 ТБ несжатых данных. Также доступны в виде расширений для браузера.
+* [Get YouTube Thumbnail](https://www.get-youtube-thumbnail.com/) — Простой инструмент для получения копии миниатюры любого видео на YouTube.
+* [Filmot](https://filmot.com/) — Отличная поисковая система для субтитров и метаданных видео на YouTube.
+* [YoutubeVideoFinder](https://findyoutubevideo.thetechrobo.ca/) — Проверяет архивные версии и другую информацию. Поиск по ID видео на YouTube.
+* [YouTube Channel Crawler](https://channelcrawler.com/) — Поиск конкретных авторов и категорий. Имеет широкий диапазон фильтров поиска.
+* [Youtube Video Data Viewer](https://ytlarge.com/youtube/video-data-viewer/) — Инструмент для извлечения метаданных видео YouTube, таких как дата и время загрузки, метрики, миниатюры и многое другое.
+
+## **4chan и 8chan**
+
+* [Archived.moe](https://archived.moe/) — Поисковый архив большинства досок 4chan.
+* [Archive Of Sins](https://archiveofsins.com/) — Архив NSFW досок 4chan. Функция поиска в данный момент недоступна. Его база данных почти идентична упомянутому выше сайту.
+* [Desuarchive](https://desuarchive.org/) — Поисковый архив различных SFW досок 4chan.
+* [Wakarimasen Archive](https://archive.wakarimasen.moe/) — Поисковый архив различных SFW досок 4chan. По сути, клон вышеупомянутого сайта.
+* [4chan Search](https://4chansearch.com/) — Поисковая система Google CSE, которая позволяет искать на 4chan и его различных архивах.
+* [Search4chan](https://search4chan.org/) — По сути, клон вышеупомянутого сайта.
+* [4plebs](https://4plebs.org/) — Поисковый архив всех тем и изображений с /adv/, /f/, /hr/, /o/, /pol/, /sp/, /tg/, /trv/, /tv/ и /x/. Напоминание: 4chan — серьёзное дело, вы можете быть оскорблены.
+* [The /b/ Archive](https://thebarchive.com/) — Поисковый архив /b/, /bant/ и /talk/. Осторожно, много NSFW контента.
+* [4chan Find](https://find.4chan.org/) — Поиск текущих тем на 4chan по совпадающим ключевым словам.
+* [4chan Archives](https://4chanarchives.com/) — Очень старый, неиндексируемый архив 4chan, датируемый 2016 годом.
+* [Qresearch](https://qresear.ch/) — Поисковый архив постов "QAnon" с 8kun/8chan.
