@@ -15,4 +15,4 @@
 * [🚅 OSINT — Поиск поезда](osint-poisk-poezda.md)
 * [🪙 OSINT — Пробив криптовалюты](osint-probiv-kriptovalyuty.md)
 * [📨 OSINT - Электронная почта](osint-elektronnaya-pochta.md)
-* [👨‍💻 OSINT - Социальные сети](osint-socialnye-seti.md)
+* [👨‍💻 OSINT - Социальные сети и мессенджеры](osint-socialnye-seti-i-messendzhery.md)
