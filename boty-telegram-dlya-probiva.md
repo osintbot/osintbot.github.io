@@ -44,7 +44,7 @@ description: >-
 * [Inline Info Username](https://vk.cc/cxzoQI) - находит имя и ссылку на аккаунт в Telegram по ID.
 * [Unamer](https://vk.cc/cwavIH) - сообщает о владельцах никнеймов в Telegram, 2 запроса бесплатно.
 * [TuriBot](https://vk.cc/cwavQm) - узнает имя пользователя по его ID.
-* [RegDateBot](https://vk.cc/cwavRF) - дает примерную дату регистрации аккаунта Telegram по ID.
+* [RegDateBot](https://vk.cc/czqW2a) - дает примерную дату регистрации аккаунта Telegram по ID.
 * [Creation Date](https://vk.cc/cwavTl) - определяет дату создания аккаунта по его username.
 * [SangMata Info Bot](https://vk.cc/cwavW2) - показывает историю смены никнеймов пользователя.
 * [SangMata (beta)](https://vk.cc/cwavXd) - история изменения имени аккаунта по ID.
