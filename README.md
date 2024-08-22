@@ -18,4 +18,5 @@
 * [OSINT - Электронная почта](osint-elektronnaya-pochta.md)
 * [OSINT - Социальные сети и мессенджеры](osint-socialnye-seti-i-messendzhery.md)
 * [GEOINT - Геопространственная Разведка](geoint-geoprostranstvennaya-razvedka.md)
+* [OSINT - Поиск по фотографии](osint-poisk-po-fotografii.md)
 
