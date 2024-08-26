@@ -1,88 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-    <url>
-        <loc>https://osintbot.github.io</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/boty-telegram-dlya-probiva.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/podborka-saitov-dlya-probiva.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/platnye-uslugi-i-servisy.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/proverka-kompanii-v-sankcionnykh-spiskakh.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/probiv-inostrannoi-kompanii.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/boty-i-servisy-dlya-probiva-avtomobilei.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/osint-rossiya.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/osint-belorussiya.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/osint-poisk-samoleta.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/osint-poisk-korablya.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/osint-poisk-poezda.html</loc>
-        <lastmod>2024-04-20</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/osint-ukrainy.html</loc>
-        <lastmod>2024-04-22</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://osintbot.github.io/osint-probiv-kriptovalyuty.html</loc>
-        <lastmod>2024-04-25</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://osintbot.org/</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/boty-telegram-dlya-probiva.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/podborka-saitov-dlya-probiva.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/platnye-uslugi-i-servisy.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/proverka-kompanii-v-sankcionnykh-spiskakh.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/probiv-inostrannoi-kompanii.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/boty-i-servisy-dlya-probiva-avtomobilei.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-rossiya.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-belorussiya.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-ukrainy.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-poisk-samoleta.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-poisk-korablya.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-poisk-poezda.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-probiv-kriptovalyuty.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-elektronnaya-pochta.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-socialnye-seti-i-messendzhery.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/geoint-geoprostranstvennaya-razvedka.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://osintbot.org/osint-poisk-po-fotografii.html</loc>
+  <lastmod>2024-08-26T10:09:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
