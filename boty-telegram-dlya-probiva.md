@@ -62,7 +62,6 @@ description: >-
 ### 🚗 Транспортные средства
 
 * [AutoInfo](https://avqlsbot.t.me/) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.online](https://avinfobot.online/)
-* от покажет комплектацию и историю ТО по базам Cavertical, CARFAX, Автотека и др.
 * [Data ViN PR](https://data_vin_pr_bot.t.me/) - поиск данных по VIN и госномеру, ОСАГО, такси, ГИБДД, техосмотрам, реестру залогов.
 * [Avtonomerbot ](https://t.me/avtonomerbot)- по номеру найдет фото авто.
 * [Автограм](https://vk.cc/cwaypI) - информация о ДТП, наложенных штрафах и залоге по VIN или госномеру.
