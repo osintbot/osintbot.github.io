@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://osintbot.info/ssitemap.xml
+Sitemap: https://osintbot.zone/ssitemap.xml
