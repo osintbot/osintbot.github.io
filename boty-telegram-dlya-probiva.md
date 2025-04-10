@@ -61,7 +61,7 @@ description: >-
 
 ### 🚗 Транспортные средства
 
-* [AutoInfo](https://vk.cc/cwawMS) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.online](https://avinfobot.online/)
+* [AutoInfo](https://avqlsbot.t.me/) - поиск владельцев ТС, номеров телефона, аккаунтов в соц. сетях + сайт [avinfobot.online](https://avinfobot.online/)
 * [VIN01](https://vk.cc/cwayHr) - поиск данных по VIN и госномеру, ОСАГО, такси, ГИБДД, техосмотрам, реестру залогов.
 * [Avtonomerbot ](https://t.me/avtonomerbot)- по номеру найдет фото авто.
 * [Автограм](https://vk.cc/cwaypI) - информация о ДТП, наложенных штрафах и залоге по VIN или госномеру.
